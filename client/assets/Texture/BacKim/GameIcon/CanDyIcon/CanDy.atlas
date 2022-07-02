@@ -1,0 +1,62 @@
+
+CanDy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Khung
+  rotate: false
+  xy: 191, 1
+  size: 177, 170
+  orig: 177, 170
+  offset: 0, 0
+  index: -1
+candy1
+  rotate: false
+  xy: 370, 1
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+Tien3
+  rotate: false
+  xy: 92, 184
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+Tien2
+  rotate: false
+  xy: 370, 94
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+Tien1
+  rotate: false
+  xy: 360, 173
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+minigame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 188, 181
+  orig: 188, 181
+  offset: 0, 0
+  index: -1
+candy
+  rotate: false
+  xy: 191, 173
+  size: 167, 55
+  orig: 167, 55
+  offset: 0, 0
+  index: -1
+eff/bum1_0005_light4
+  rotate: false
+  xy: 1, 184
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+FrozenLobby.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-e
+  rotate: false
+  xy: 1, 404
+  size: 223, 390
+  orig: 223, 390
+  offset: 0, 0
+  index: -1
+Crishtopher Bot
+  rotate: false
+  xy: 148, 863
+  size: 59, 116
+  orig: 61, 118
+  offset: 1, 1
+  index: -1
+Crishtopher Top
+  rotate: false
+  xy: 65, 863
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Olaf Hair
+  rotate: false
+  xy: 136, 981
+  size: 37, 31
+  orig: 39, 33
+  offset: 1, 1
+  index: -1
+Olaf
+  rotate: false
+  xy: 1, 863
+  size: 62, 151
+  orig: 62, 151
+  offset: 0, 0
+  index: -1
+Anna Hair
+  rotate: false
+  xy: 555, 961
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Anna
+  rotate: false
+  xy: 484, 662
+  size: 106, 297
+  orig: 106, 297
+  offset: 0, 0
+  index: -1
+Elsa
+  rotate: false
+  xy: 226, 404
+  size: 219, 336
+  orig: 219, 336
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 484, 961
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+Snowflake
+  rotate: false
+  xy: 65, 954
+  size: 69, 67
+  orig: 100, 100
+  offset: 14, 15
+  index: -1
+laser_impulse_impact_ring_001
+  rotate: false
+  xy: 447, 404
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shockwave_02
+  rotate: false
+  xy: 226, 742
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Layer 51 copy
+  rotate: false
+  xy: 1, 796
+  size: 206, 65
+  orig: 208, 67
+  offset: 1, 1
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1

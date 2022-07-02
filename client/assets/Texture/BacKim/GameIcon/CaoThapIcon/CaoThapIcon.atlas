@@ -1,0 +1,69 @@
+
+CaoThapIcon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bai
+  rotate: false
+  xy: 371, 106
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+BaiCao
+  rotate: false
+  xy: 463, 106
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+BaiGoc
+  rotate: false
+  xy: 555, 106
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1
+CAO
+  rotate: false
+  xy: 371, 69
+  size: 87, 35
+  orig: 87, 35
+  offset: 0, 0
+  index: -1
+Khung
+  rotate: false
+  xy: 192, 58
+  size: 177, 170
+  orig: 177, 170
+  offset: 0, 0
+  index: -1
+MuiTen
+  rotate: false
+  xy: 645, 118
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+eff/bum1_0005_light4
+  rotate: false
+  xy: 725, 142
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+minigame-bolder
+  rotate: false
+  xy: 2, 47
+  size: 188, 181
+  orig: 188, 181
+  offset: 0, 0
+  index: -1
+thap
+  rotate: false
+  xy: 2, 2
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1

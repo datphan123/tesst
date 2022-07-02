@@ -1,0 +1,62 @@
+
+KungfuPanda.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-mm
+  rotate: false
+  xy: 238, 1
+  size: 223, 390
+  orig: 223, 390
+  offset: 0, 0
+  index: -1
+taygau2
+  rotate: false
+  xy: 106, 440
+  size: 71, 44
+  orig: 73, 46
+  offset: 1, 1
+  index: -1
+bodygau
+  rotate: false
+  xy: 463, 1
+  size: 202, 272
+  orig: 202, 272
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1, 404
+  size: 103, 100
+  orig: 105, 102
+  offset: 1, 1
+  index: -1
+daugau
+  rotate: false
+  xy: 463, 275
+  size: 61, 131
+  orig: 63, 133
+  offset: 1, 1
+  index: -1
+PANDA
+  rotate: false
+  xy: 238, 393
+  size: 185, 56
+  orig: 188, 58
+  offset: 1, 1
+  index: -1
+Kungfu
+  rotate: false
+  xy: 106, 404
+  size: 99, 34
+  orig: 102, 36
+  offset: 1, 1
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1

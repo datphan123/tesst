@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cb4ea716-3d0f-411e-857e-84304f4777db",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1015,
+  "height": 14,
+  "platformSettings": {},
+  "subMetas": {
+    "BAR VIP": {
+      "ver": "1.0.6",
+      "uuid": "c53fc5c1-4b5f-4ab7-8a5a-875a37739eaf",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cb4ea716-3d0f-411e-857e-84304f4777db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1015,
+      "height": 14,
+      "rawWidth": 1015,
+      "rawHeight": 14,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

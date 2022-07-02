@@ -1,0 +1,20 @@
+
+icon_kingdubai.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xe
+  rotate: false
+  xy: 1, 1
+  size: 141, 168
+  orig: 143, 171
+  offset: 1, 2
+  index: -1
+dt
+  rotate: false
+  xy: 1, 171
+  size: 72, 83
+  orig: 74, 87
+  offset: 1, 2
+  index: -1

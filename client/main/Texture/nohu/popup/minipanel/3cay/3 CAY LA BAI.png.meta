@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0e32af5f-6a33-402d-9e7b-a4a0699d5560",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 134,
+  "height": 108,
+  "platformSettings": {},
+  "subMetas": {
+    "3 CAY LA BAI": {
+      "ver": "1.0.6",
+      "uuid": "3151bf35-4c0b-4a30-8d3b-c570db5c8239",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0e32af5f-6a33-402d-9e7b-a4a0699d5560",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 134,
+      "height": 108,
+      "rawWidth": 134,
+      "rawHeight": 108,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

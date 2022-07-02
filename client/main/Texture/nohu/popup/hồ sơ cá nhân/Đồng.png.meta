@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d2d300dc-a97f-4a8c-801c-6f887c806e6a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 52,
+  "height": 25,
+  "platformSettings": {},
+  "subMetas": {
+    "Đồng": {
+      "ver": "1.0.6",
+      "uuid": "5d75e31f-ec12-42eb-990b-6d037f83d6c9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d2d300dc-a97f-4a8c-801c-6f887c806e6a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 52,
+      "height": 25,
+      "rawWidth": 52,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

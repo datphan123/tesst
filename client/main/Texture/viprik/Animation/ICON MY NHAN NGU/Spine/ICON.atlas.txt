@@ -1,0 +1,97 @@
+
+ICON.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mat my nhan
+  rotate: false
+  xy: 206, 11
+  size: 32, 14
+  orig: 34, 16
+  offset: 1, 1
+  index: -1
+mat my nhan 2
+  rotate: false
+  xy: 310, 71
+  size: 32, 14
+  orig: 34, 16
+  offset: 1, 1
+  index: -1
+my nhan ngu
+  rotate: false
+  xy: 292, 170
+  size: 146, 80
+  orig: 148, 82
+  offset: 1, 1
+  index: -1
+my nhan ngu 10
+  rotate: true
+  xy: 417, 102
+  size: 66, 34
+  orig: 68, 36
+  offset: 1, 1
+  index: -1
+my nhan ngu 11
+  rotate: false
+  xy: 453, 94
+  size: 47, 33
+  orig: 49, 35
+  offset: 1, 1
+  index: -1
+my nhan ngu 12
+  rotate: false
+  xy: 262, 25
+  size: 15, 61
+  orig: 17, 63
+  offset: 1, 1
+  index: -1
+my nhan ngu 13
+  rotate: false
+  xy: 279, 33
+  size: 29, 52
+  orig: 31, 54
+  offset: 1, 1
+  index: -1
+my nhan ngu 14
+  rotate: false
+  xy: 453, 129
+  size: 44, 45
+  orig: 46, 47
+  offset: 1, 1
+  index: -1
+my nhan ngu 4
+  rotate: true
+  xy: 2, 88
+  size: 162, 288
+  orig: 164, 290
+  offset: 1, 1
+  index: -1
+my nhan ngu 6
+  rotate: false
+  xy: 292, 87
+  size: 123, 81
+  orig: 125, 83
+  offset: 1, 1
+  index: -1
+my nhan ngu 7
+  rotate: true
+  xy: 440, 176
+  size: 74, 66
+  orig: 76, 68
+  offset: 1, 1
+  index: -1
+my nhan ngu 8
+  rotate: true
+  xy: 2, 2
+  size: 84, 202
+  orig: 86, 204
+  offset: 1, 1
+  index: -1
+my nhan ngu 9
+  rotate: false
+  xy: 206, 27
+  size: 54, 59
+  orig: 56, 61
+  offset: 1, 1
+  index: -1

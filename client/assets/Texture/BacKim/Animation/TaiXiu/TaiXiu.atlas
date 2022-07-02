@@ -1,0 +1,146 @@
+
+TaiXiu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+set1
+  rotate: false
+  xy: 1016, 1015
+  size: 527, 428
+  orig: 537, 444
+  offset: 1, 1
+  index: -1
+ban
+  rotate: false
+  xy: 1, 1
+  size: 1159, 535
+  orig: 1161, 537
+  offset: 1, 1
+  index: -1
+vuong
+  rotate: false
+  xy: 1438, 538
+  size: 407, 334
+  orig: 460, 334
+  offset: 26, 0
+  index: -1
+ke
+  rotate: false
+  xy: 1, 538
+  size: 1055, 475
+  orig: 1055, 475
+  offset: 0, 0
+  index: -1
+upban
+  rotate: false
+  xy: 1, 1015
+  size: 1013, 421
+  orig: 1013, 421
+  offset: 0, 0
+  index: -1
+tron1
+  rotate: false
+  xy: 1162, 1
+  size: 351, 351
+  orig: 351, 351
+  offset: 0, 0
+  index: -1
+tron2
+  rotate: false
+  xy: 1515, 1
+  size: 319, 319
+  orig: 319, 319
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 1261, 927
+  size: 69, 50
+  orig: 71, 52
+  offset: 1, 1
+  index: -1
+coin2
+  rotate: false
+  xy: 1261, 979
+  size: 44, 31
+  orig: 46, 33
+  offset: 1, 1
+  index: -1
+coin3
+  rotate: false
+  xy: 1249, 354
+  size: 49, 49
+  orig: 55, 51
+  offset: 5, 1
+  index: -1
+taixiu
+  rotate: false
+  xy: 1058, 927
+  size: 201, 70
+  orig: 204, 72
+  offset: 2, 1
+  index: -1
+canbang1
+  rotate: false
+  xy: 1515, 322
+  size: 368, 92
+  orig: 368, 92
+  offset: 0, 0
+  index: -1
+canbang2
+  rotate: false
+  xy: 1438, 874
+  size: 368, 92
+  orig: 368, 92
+  offset: 0, 0
+  index: -1
+elect/elec1_00002
+  rotate: false
+  xy: 1162, 354
+  size: 85, 29
+  orig: 100, 100
+  offset: 4, 34
+  index: -1
+elect/elec1_00006
+  rotate: false
+  xy: 1511, 968
+  size: 86, 31
+  orig: 100, 100
+  offset: 3, 34
+  index: -1
+elect/elec1_00009
+  rotate: false
+  xy: 1332, 927
+  size: 88, 37
+  orig: 100, 100
+  offset: 2, 30
+  index: -1
+elect/elec1_00000
+  rotate: false
+  xy: 1422, 968
+  size: 87, 31
+  orig: 100, 100
+  offset: 3, 33
+  index: -1
+elect/elec1_00011
+  rotate: false
+  xy: 1332, 966
+  size: 88, 36
+  orig: 100, 100
+  offset: 1, 30
+  index: -1
+elect/elec1_00004
+  rotate: false
+  xy: 1300, 354
+  size: 86, 25
+  orig: 100, 100
+  offset: 3, 36
+  index: -1
+rong
+  rotate: false
+  xy: 1058, 538
+  size: 378, 387
+  orig: 380, 389
+  offset: 1, 2
+  index: -1

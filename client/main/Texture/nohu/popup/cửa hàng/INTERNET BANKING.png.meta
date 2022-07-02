@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5a31dba8-c64d-4117-8554-24a023792a0f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 218,
+  "height": 26,
+  "platformSettings": {},
+  "subMetas": {
+    "INTERNET BANKING": {
+      "ver": "1.0.6",
+      "uuid": "a35b45ba-e1e7-41cd-9a49-1dff46838d12",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5a31dba8-c64d-4117-8554-24a023792a0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 218,
+      "height": 26,
+      "rawWidth": 218,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,104 @@
+
+XocDiaIcon.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XocDia/Bat/Bat_02
+  rotate: false
+  xy: 1729, 129
+  size: 188, 124
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/Bat/Bat_03
+  rotate: false
+  xy: 1539, 128
+  size: 188, 125
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/Bat/Bat_04
+  rotate: false
+  xy: 1349, 124
+  size: 188, 129
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/Bat/Bat_05
+  rotate: false
+  xy: 1159, 119
+  size: 188, 134
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/Bat/Bat_06
+  rotate: false
+  xy: 969, 112
+  size: 188, 141
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/Bat/Bat_07
+  rotate: false
+  xy: 779, 102
+  size: 188, 151
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/Bat/Bat_08
+  rotate: false
+  xy: 589, 94
+  size: 188, 159
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/Bat/Bat_09
+  rotate: false
+  xy: 399, 92
+  size: 188, 161
+  orig: 236, 184
+  offset: 24, 21
+  index: -1
+XocDia/BongDo
+  rotate: true
+  xy: 1919, 68
+  size: 185, 105
+  orig: 185, 105
+  offset: 0, 0
+  index: -1
+XocDia/KhungVienNgoai
+  rotate: false
+  xy: 2, 61
+  size: 202, 192
+  orig: 202, 192
+  offset: 0, 0
+  index: -1
+XocDia/Nen
+  rotate: false
+  xy: 206, 71
+  size: 191, 182
+  orig: 191, 182
+  offset: 0, 0
+  index: -1
+XocDia/Tien1
+  rotate: false
+  xy: 399, 2
+  size: 132, 88
+  orig: 132, 88
+  offset: 0, 0
+  index: -1
+XocDia/Tien2
+  rotate: false
+  xy: 969, 6
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+XocDia/XocDia
+  rotate: false
+  xy: 2, 7
+  size: 150, 52
+  orig: 150, 52
+  offset: 0, 0
+  index: -1

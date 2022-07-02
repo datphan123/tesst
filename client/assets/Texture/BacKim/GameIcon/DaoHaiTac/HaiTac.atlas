@@ -1,0 +1,69 @@
+
+HaiTac.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-a
+  rotate: false
+  xy: 238, 550
+  size: 223, 390
+  orig: 223, 390
+  offset: 0, 0
+  index: -1
+Thuyen
+  rotate: false
+  xy: 1, 1
+  size: 509, 547
+  orig: 509, 547
+  offset: 0, 0
+  index: -1
+Char2
+  rotate: false
+  xy: 512, 1
+  size: 185, 227
+  orig: 185, 227
+  offset: 0, 0
+  index: -1
+Char4
+  rotate: false
+  xy: 906, 825
+  size: 74, 174
+  orig: 74, 174
+  offset: 0, 0
+  index: -1
+Char3
+  rotate: false
+  xy: 463, 813
+  size: 177, 206
+  orig: 177, 206
+  offset: 0, 0
+  index: -1
+Char1
+  rotate: false
+  xy: 745, 550
+  size: 220, 273
+  orig: 220, 273
+  offset: 0, 0
+  index: -1
+Mothuyen
+  rotate: false
+  xy: 463, 550
+  size: 280, 261
+  orig: 280, 261
+  offset: 0, 0
+  index: -1
+LOGO
+  rotate: false
+  xy: 642, 825
+  size: 262, 111
+  orig: 262, 111
+  offset: 0, 0
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 550
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1

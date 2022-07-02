@@ -1,0 +1,174 @@
+
+Animation_IconMienvientay.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mienvientay
+  rotate: false
+  xy: 238, 1
+  size: 223, 389
+  orig: 223, 389
+  offset: 0, 0
+  index: -1
+icongame2
+  rotate: false
+  xy: 463, 1
+  size: 126, 233
+  orig: 126, 233
+  offset: 0, 0
+  index: -1
+icongame1
+  rotate: false
+  xy: 463, 236
+  size: 175, 122
+  orig: 175, 122
+  offset: 0, 0
+  index: -1
+icongame3
+  rotate: false
+  xy: 613, 360
+  size: 49, 125
+  orig: 49, 125
+  offset: 0, 0
+  index: -1
+icongame4
+  rotate: false
+  xy: 591, 1
+  size: 39, 206
+  orig: 39, 206
+  offset: 0, 0
+  index: -1
+icongame5
+  rotate: false
+  xy: 471, 360
+  size: 140, 147
+  orig: 140, 147
+  offset: 0, 0
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1
+icongame6
+  rotate: false
+  xy: 632, 55
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+icongame7
+  rotate: false
+  xy: 632, 1
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1
+icongame8
+  rotate: false
+  xy: 180, 404
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+icongame9
+  rotate: false
+  xy: 238, 392
+  size: 231, 98
+  orig: 231, 98
+  offset: 0, 0
+  index: -1
+icongame10
+  rotate: false
+  xy: 1, 478
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+icongame11
+  rotate: false
+  xy: 632, 116
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+icongame12
+  rotate: false
+  xy: 714, 116
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+icongame13
+  rotate: false
+  xy: 674, 116
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+icongame15
+  rotate: false
+  xy: 81, 478
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+icongame16
+  rotate: false
+  xy: 753, 116
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+icongame17
+  rotate: false
+  xy: 41, 478
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+icongame18
+  rotate: false
+  xy: 632, 162
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+icongame14
+  rotate: false
+  xy: 180, 455
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+icongame19
+  rotate: false
+  xy: 788, 116
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+icongame20
+  rotate: false
+  xy: 670, 162
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+icongame21
+  rotate: false
+  xy: 103, 404
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 1, 404
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1

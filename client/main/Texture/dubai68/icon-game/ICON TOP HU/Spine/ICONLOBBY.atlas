@@ -1,0 +1,48 @@
+
+ICONLOBBY.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vong
+  rotate: false
+  xy: 1, 1
+  size: 129, 131
+  orig: 129, 131
+  offset: 0, 0
+  index: -1
+TOP HU LIGHT
+  rotate: false
+  xy: 1, 134
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+TOP HU RUONG1
+  rotate: false
+  xy: 277, 134
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+TOP HU RUONG2
+  rotate: false
+  xy: 195, 134
+  size: 80, 71
+  orig: 80, 71
+  offset: 0, 0
+  index: -1
+TOP HU RUONG3
+  rotate: false
+  xy: 113, 134
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+TOPHU TEXT
+  rotate: false
+  xy: 277, 195
+  size: 88, 29
+  orig: 88, 29
+  offset: 0, 0
+  index: -1

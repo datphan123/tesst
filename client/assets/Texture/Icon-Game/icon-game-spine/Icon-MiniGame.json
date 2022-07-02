@@ -1,0 +1,111 @@
+{
+"skeleton": { "hash": "TdHYNrNLC0e2YIH1XRY2pUH5lRg", "spine": "3.6.53", "width": 1282, "height": 838, "images": "./daily_btnmini/images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "1", "parent": "root" },
+	{ "name": "game", "parent": "1", "x": -0.24, "y": -12.68 },
+	{ "name": "mini", "parent": "1", "x": 0.29, "y": 14.27 },
+	{ "name": "xoay1", "parent": "1", "x": -1.13, "y": 1.88 },
+	{ "name": "xoay2", "parent": "1", "x": -2.4, "y": 2.42 }
+],
+"slots": [
+	{ "name": "xoay2", "bone": "xoay2", "attachment": "xoay2" },
+	{ "name": "xoay1", "bone": "xoay1", "attachment": "xoay1" },
+	{ "name": "mini", "bone": "mini", "attachment": "mini" },
+	{ "name": "game", "bone": "game", "attachment": "game" }
+],
+"skins": {
+	"default": {
+		"game": {
+			"game": { "x": -1.5, "y": -0.23, "width": 75, "height": 24 }
+		},
+		"mini": {
+			"mini": { "x": -1.54, "y": 0.82, "width": 76, "height": 36 }
+		},
+		"xoay1": {
+			"xoay1": { "x": 7.88, "y": -1.28, "width": 136, "height": 101 }
+		},
+		"xoay2": {
+			"xoay2": { "x": -3.85, "y": -3.82, "width": 124, "height": 135 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"game": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1.036,
+						"y": 1.036,
+						"curve": [ 0.38, 0.53, 0.745, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.0667,
+						"x": 1.087,
+						"y": 1.087,
+						"curve": [ 0.247, 0, 0.632, 0.53 ]
+					},
+					{ "time": 1.5, "x": 1.036, "y": 1.036 }
+				]
+			},
+			"mini": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"x": 1.087,
+						"y": 1.087,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"xoay1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 120 },
+					{ "time": 1, "angle": -120 },
+					{ "time": 1.5, "angle": 0 }
+				]
+			},
+			"xoay2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": -120 },
+					{ "time": 1, "angle": 120 },
+					{ "time": 1.5, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

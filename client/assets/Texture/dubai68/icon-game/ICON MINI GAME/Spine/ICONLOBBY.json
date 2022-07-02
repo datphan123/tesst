@@ -1,0 +1,278 @@
+{
+"skeleton": { "hash": "P2v7x5Wqt5Y1f8wvmz+O4l1YG/g", "spine": "3.5.51", "width": 116.11, "height": 142.57, "images": "./../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 70.32, "rotation": 61.31, "x": 15.69, "y": 39.16 },
+	{
+		"name": "bone16",
+		"parent": "root",
+		"length": 84.55,
+		"rotation": -1.54,
+		"x": 1.08,
+		"y": 0.61,
+		"scaleX": 0.854,
+		"scaleY": 0.854,
+		"color": "fa0035ff"
+	},
+	{ "name": "bone17", "parent": "root", "length": 69.36, "rotation": 77.54, "x": -17.8, "y": 12.92, "color": "fa0035ff" },
+	{ "name": "bone18", "parent": "root", "length": 69.61, "rotation": 65.04, "x": 21.1, "y": -24.62, "color": "fa0035ff" },
+	{ "name": "bone19", "parent": "root", "length": 68.4, "rotation": 58.47, "x": -0.1, "y": -58.82, "color": "fa0035ff" }
+],
+"slots": [
+	{ "name": "sanh game 8", "bone": "root" },
+	{ "name": "DAILY WING2", "bone": "root" },
+	{ "name": "DAILY WING1", "bone": "root" },
+	{ "name": "DAILY WING3", "bone": "root" },
+	{ "name": "DAILY WING4", "bone": "root" },
+	{ "name": "DAI LY LIGHT2", "bone": "root" },
+	{ "name": "DAI LY LIGHT3", "bone": "root" },
+	{ "name": "DAI LY LIGHT4", "bone": "root" },
+	{ "name": "DAI LY LIGHT5", "bone": "root" },
+	{ "name": "DAI LY LIGHT6", "bone": "root" },
+	{ "name": "DAI LY FRAME", "bone": "root" },
+	{ "name": "DAI LY LIGHT", "bone": "root" },
+	{ "name": "DAI LY", "bone": "root" },
+	{ "name": "CASINO 007", "bone": "root" },
+	{ "name": "CASINO TEXT", "bone": "root" },
+	{ "name": "CASINO ROYALE", "bone": "root" },
+	{ "name": "CASINO LIGHT1", "bone": "root" },
+	{ "name": "CASINO LIGHT2", "bone": "root" },
+	{ "name": "CASINO LIGHT3", "bone": "root" },
+	{ "name": "TLMN FRAME", "bone": "root" },
+	{ "name": "TLMN LA BAI", "bone": "root" },
+	{ "name": "TLMN VANG1", "bone": "root" },
+	{ "name": "TLMN VANG2", "bone": "root" },
+	{ "name": "TLMN TEXT1", "bone": "root" },
+	{ "name": "TLMN TEXT 2", "bone": "root" },
+	{ "name": "SIEU XE 2", "bone": "root" },
+	{ "name": "SIEU XE 1", "bone": "root" },
+	{ "name": "SIEU XE LIGHT1", "bone": "root" },
+	{ "name": "SIEU XE LIGHT2", "bone": "root" },
+	{ "name": "SIEU XE LIGHT3", "bone": "root" },
+	{ "name": "SIEU XE TEXT", "bone": "root" },
+	{ "name": "DONG MAU MODEL", "bone": "root" },
+	{ "name": "DONG MAU DAU MODEL", "bone": "root" },
+	{ "name": "DONG MAU TAY", "bone": "root" },
+	{ "name": "DONG MAU", "bone": "root" },
+	{ "name": "DONG MAU2", "bone": "root" },
+	{ "name": "SEX THAN GAI 2", "bone": "root" },
+	{ "name": "SEX TAI THO 2", "bone": "root" },
+	{ "name": "SEX TAI THO 1", "bone": "root" },
+	{ "name": "SEX TOC GAI 2", "bone": "root" },
+	{ "name": "SEX VEU GAI 2", "bone": "root" },
+	{ "name": "SEX THAN GAI 1", "bone": "root" },
+	{ "name": "TOC GAI 1", "bone": "root" },
+	{ "name": "SEX VEU GAI 1", "bone": "root" },
+	{ "name": "SEX TEXT", "bone": "root" },
+	{ "name": "SEX AND", "bone": "root" },
+	{ "name": "SEX ZEN", "bone": "root" },
+	{ "name": "MINI POKER FRAME", "bone": "root" },
+	{ "name": "MINI POKER QUAY 2", "bone": "root" },
+	{ "name": "MINI POKER TRUC QUAY", "bone": "root" },
+	{ "name": "MINI POKER FRAME QUAY", "bone": "root" },
+	{ "name": "MINI POKER ITEM1", "bone": "root" },
+	{ "name": "MINI POKER ITEM2", "bone": "root" },
+	{ "name": "MINI POKER ITEM3", "bone": "root" },
+	{ "name": "MINI POKER ITEM4", "bone": "root" },
+	{ "name": "MINI POKER 7 1", "bone": "root" },
+	{ "name": "MINI POKER 7 2", "bone": "root" },
+	{ "name": "MINI POKER 7 3", "bone": "root" },
+	{ "name": "MINI POKER TEXT1", "bone": "root" },
+	{ "name": "MINI POKER TEXT 2", "bone": "root" },
+	{ "name": "BAN CA VUONG MIEN", "bone": "root" },
+	{ "name": "ca map hut thuoc", "bone": "root" },
+	{ "name": "ca map hut thuoc 7", "bone": "root" },
+	{ "name": "ca map hut thuoc 6", "bone": "root" },
+	{ "name": "ca map hut thuoc 4", "bone": "root" },
+	{ "name": "ca map hut thuoc 5", "bone": "root" },
+	{ "name": "ca map hut thuoc 3", "bone": "root" },
+	{ "name": "ca map hut thuoc 2", "bone": "root" },
+	{ "name": "ca map hut thuoc 8", "bone": "root" },
+	{ "name": "Group 21", "bone": "root" },
+	{ "name": "TX TEXT", "bone": "root" },
+	{ "name": "TX TEXT2", "bone": "root" },
+	{ "name": "TX DIA", "bone": "root" },
+	{ "name": "TX KINH", "bone": "root" },
+	{ "name": "TX  DICE1", "bone": "root" },
+	{ "name": "TX  DICE2", "bone": "root" },
+	{ "name": "TX  DICE3", "bone": "root" },
+	{ "name": "CAO THAP FRAME", "bone": "root" },
+	{ "name": "CAO THAP TEN1", "bone": "root" },
+	{ "name": "CAO THAP TEN2", "bone": "root" },
+	{ "name": "CAO THAP TEXT1", "bone": "root" },
+	{ "name": "CAO THAP TEXT 2", "bone": "root" },
+	{ "name": "CO TUONG ITEM", "bone": "root" },
+	{ "name": "CAO RUA ITEM2", "bone": "root" },
+	{ "name": "CAO RUA ITEM1", "bone": "root" },
+	{ "name": "CAO RUA ITEM3", "bone": "root" },
+	{ "name": "CAO RUA", "bone": "root" },
+	{ "name": "CO CARO FRAME", "bone": "root" },
+	{ "name": "CO CAROX", "bone": "root" },
+	{ "name": "CO CAROO", "bone": "root" },
+	{ "name": "CO CARO1", "bone": "root" },
+	{ "name": "CO CARO2", "bone": "root" },
+	{ "name": "POKER FRAME", "bone": "root" },
+	{ "name": "POKER ITEM3", "bone": "root" },
+	{ "name": "POKER ITEM4", "bone": "root" },
+	{ "name": "POKER ITEM2", "bone": "root" },
+	{ "name": "POKER ITEM1", "bone": "root" },
+	{ "name": "POKER ITEM5", "bone": "root" },
+	{ "name": "POKER", "bone": "root" },
+	{ "name": "XI DACH FRAME", "bone": "root" },
+	{ "name": "XI DACH BAI2", "bone": "root" },
+	{ "name": "XI DACH GOLD2", "bone": "root" },
+	{ "name": "XI DACH BAI1", "bone": "root" },
+	{ "name": "XI DACH GOLD", "bone": "root" },
+	{ "name": "XI DACH", "bone": "root" },
+	{ "name": "3 CAY FRAME", "bone": "root" },
+	{ "name": "3 CAY CUP", "bone": "root" },
+	{ "name": "3 CAY LA BAI", "bone": "root" },
+	{ "name": "3 CAY", "bone": "root" },
+	{ "name": "LIENG FRAME", "bone": "root" },
+	{ "name": "LIENG ITEM1", "bone": "root" },
+	{ "name": "LIENG ITEM2", "bone": "root" },
+	{ "name": "LIENG", "bone": "root" },
+	{ "name": "KIM CUONG FRAME", "bone": "root" },
+	{ "name": "KIM CUONG ITEM", "bone": "root" },
+	{ "name": "KIM CUONG LIGHT 1", "bone": "root" },
+	{ "name": "KIM CUONG LIGHT 2", "bone": "root" },
+	{ "name": "KIM CUONG LIGHT 3", "bone": "root" },
+	{ "name": "KIM CUONG", "bone": "root" },
+	{ "name": "CO UP", "bone": "root" },
+	{ "name": "MAU BINH FRAME", "bone": "root" },
+	{ "name": "MAU BINH ITEM5", "bone": "root" },
+	{ "name": "MAU BINH ITEM4", "bone": "root" },
+	{ "name": "MAU BINH ITEM3", "bone": "root" },
+	{ "name": "MAU BINH ITEM2", "bone": "root" },
+	{ "name": "MAU BINH ITEM1", "bone": "root" },
+	{ "name": "MAU BINH", "bone": "root" },
+	{ "name": "MAU BINH TINH AT", "bone": "root" },
+	{ "name": "SAM FRAME", "bone": "root" },
+	{ "name": "SAM LABAI", "bone": "root" },
+	{ "name": "SAM", "bone": "root" },
+	{ "name": "solo", "bone": "root" },
+	{ "name": "Layer 67", "bone": "bone", "attachment": "Layer 65" },
+	{ "name": "Layer 65", "bone": "root" },
+	{ "name": "Layer 66", "bone": "bone16", "attachment": "Layer 66" },
+	{ "name": "Layer 66 copy", "bone": "bone16", "attachment": "Layer 66 copy" },
+	{ "name": "Mini2", "bone": "bone17", "attachment": "Mini" },
+	{ "name": "Mini", "bone": "root" },
+	{ "name": "Game2", "bone": "bone18", "attachment": "Game" },
+	{ "name": "Game", "bone": "root" },
+	{ "name": "MINI GAME FRAME2", "bone": "bone19", "attachment": "MINI GAME FRAME" },
+	{ "name": "MINI GAME FRAME", "bone": "root" },
+	{ "name": "TOPHU TEXT", "bone": "root" },
+	{ "name": "BAU CUA ITEM3", "bone": "root" },
+	{ "name": "BAU CUA ITEM2", "bone": "root" },
+	{ "name": "BAU CUA ITEM1", "bone": "root" },
+	{ "name": "BAU CUA1", "bone": "root" },
+	{ "name": "BAU CUA2", "bone": "root" },
+	{ "name": "XOCDIA FRAME", "bone": "root" },
+	{ "name": "XOCDIA2", "bone": "root" },
+	{ "name": "XOCDIA1", "bone": "root" },
+	{ "name": "XOCDIA BAT", "bone": "root" },
+	{ "name": "XOCDIA DIA", "bone": "root" },
+	{ "name": "XOCDIA ITEM4", "bone": "root" },
+	{ "name": "XOCDIA ITEM1", "bone": "root" },
+	{ "name": "XOCDIA ITEM2", "bone": "root" },
+	{ "name": "XOCDIA ITEM3", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Game2": {
+			"Game": { "x": -3.23, "y": 23.48, "rotation": -65.04, "width": 70, "height": 24 }
+		},
+		"Layer 66": {
+			"Layer 66": { "x": -1.3, "y": 29.63, "rotation": -75.97, "width": 82, "height": 92 }
+		},
+		"Layer 66 copy": {
+			"Layer 66 copy": { "x": 12.88, "y": -30.71, "rotation": -64.73, "width": 74, "height": 105 }
+		},
+		"Layer 67": {
+			"Layer 65": { "x": -41.88, "y": -5.03, "rotation": -61.31, "width": 102, "height": 103 }
+		},
+		"MINI GAME FRAME2": {
+			"MINI GAME FRAME": { "x": 0.09, "y": -0.44, "rotation": -58.47, "width": 95, "height": 30 }
+		},
+		"Mini2": {
+			"Mini": { "x": 8.01, "y": -13.33, "rotation": -77.54, "width": 55, "height": 23 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone16": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": -105.95 },
+					{ "time": 1, "angle": -202.66 },
+					{ "time": 1.5, "angle": 69.57 },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			},
+			"bone17": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 2.75, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 2.75, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.834, "y": 0.834 },
+					{ "time": 1, "x": 1.088, "y": 1.088 },
+					{ "time": 2, "x": 0.834, "y": 0.834 }
+				]
+			},
+			"bone18": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 6.19, "y": 0 },
+					{ "time": 1, "x": -3.44, "y": 0 },
+					{ "time": 2, "x": 6.19, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.186, "y": 1.186 },
+					{ "time": 1, "x": 0.813, "y": 0.813 },
+					{ "time": 2, "x": 1.186, "y": 1.186 }
+				]
+			},
+			"bone19": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

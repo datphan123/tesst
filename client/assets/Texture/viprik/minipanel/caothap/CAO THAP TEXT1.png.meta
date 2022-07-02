@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "38e03680-560a-4abc-a72d-13bb40b617fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "CAO THAP TEXT1": {
+      "ver": "1.0.4",
+      "uuid": "a2f32fab-8c80-4104-947f-f327bed52a80",
+      "rawTextureUuid": "38e03680-560a-4abc-a72d-13bb40b617fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 66,
+      "height": 31,
+      "rawWidth": 66,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,237 @@
+
+TaiXiuIcon.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dom
+  rotate: true
+  xy: 1919, 892
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+NenDo2
+  rotate: false
+  xy: 555, 676
+  size: 177, 170
+  orig: 177, 170
+  offset: 0, 0
+  index: -1
+NenXanh2
+  rotate: true
+  xy: 734, 670
+  size: 177, 170
+  orig: 177, 170
+  offset: 0, 0
+  index: -1
+XX/tx_00
+  rotate: false
+  xy: 438, 848
+  size: 212, 170
+  orig: 212, 170
+  offset: 0, 0
+  index: -1
+XX/tx_01
+  rotate: false
+  xy: 652, 849
+  size: 212, 169
+  orig: 212, 169
+  offset: 0, 0
+  index: -1
+XX/tx_02
+  rotate: false
+  xy: 866, 850
+  size: 212, 168
+  orig: 212, 168
+  offset: 0, 0
+  index: -1
+XX/tx_03
+  rotate: true
+  xy: 2, 192
+  size: 212, 171
+  orig: 212, 171
+  offset: 0, 0
+  index: -1
+XX/tx_04
+  rotate: true
+  xy: 2, 406
+  size: 212, 173
+  orig: 212, 173
+  offset: 0, 0
+  index: -1
+XX/tx_05
+  rotate: false
+  xy: 1080, 847
+  size: 211, 171
+  orig: 211, 171
+  offset: 0, 0
+  index: -1
+XX/tx_06
+  rotate: false
+  xy: 344, 676
+  size: 209, 170
+  orig: 209, 170
+  offset: 0, 0
+  index: -1
+XX/tx_07
+  rotate: true
+  xy: 2, 620
+  size: 217, 173
+  orig: 217, 173
+  offset: 0, 0
+  index: -1
+XX/tx_08
+  rotate: false
+  xy: 218, 848
+  size: 218, 170
+  orig: 218, 170
+  offset: 0, 0
+  index: -1
+XX/tx_09
+  rotate: false
+  xy: 1293, 671
+  size: 208, 169
+  orig: 208, 169
+  offset: 0, 0
+  index: -1
+XX/tx_10
+  rotate: false
+  xy: 1504, 840
+  size: 204, 178
+  orig: 204, 178
+  offset: 0, 0
+  index: -1
+XX/tx_11
+  rotate: false
+  xy: 2, 839
+  size: 214, 179
+  orig: 214, 179
+  offset: 0, 0
+  index: -1
+XX/tx_12
+  rotate: false
+  xy: 1710, 845
+  size: 207, 173
+  orig: 207, 173
+  offset: 0, 0
+  index: -1
+XX/tx_13
+  rotate: false
+  xy: 1293, 842
+  size: 209, 176
+  orig: 209, 176
+  offset: 0, 0
+  index: -1
+XX/tx_14
+  rotate: false
+  xy: 1713, 667
+  size: 202, 176
+  orig: 202, 176
+  offset: 0, 0
+  index: -1
+XX/tx_15
+  rotate: true
+  xy: 727, 466
+  size: 202, 174
+  orig: 202, 174
+  offset: 0, 0
+  index: -1
+XX/tx_16
+  rotate: true
+  xy: 906, 648
+  size: 200, 171
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+XX/tx_17
+  rotate: true
+  xy: 903, 443
+  size: 203, 169
+  orig: 203, 169
+  offset: 0, 0
+  index: -1
+XX/tx_18
+  rotate: false
+  xy: 1503, 671
+  size: 208, 167
+  orig: 208, 167
+  offset: 0, 0
+  index: -1
+XX/tx_19
+  rotate: true
+  xy: 344, 248
+  size: 210, 165
+  orig: 210, 165
+  offset: 0, 0
+  index: -1
+XX/tx_20
+  rotate: false
+  xy: 1079, 681
+  size: 212, 164
+  orig: 212, 164
+  offset: 0, 0
+  index: -1
+XX/tx_21
+  rotate: false
+  xy: 511, 176
+  size: 213, 164
+  orig: 213, 164
+  offset: 0, 0
+  index: -1
+XX/tx_22
+  rotate: true
+  xy: 177, 623
+  size: 214, 165
+  orig: 214, 165
+  offset: 0, 0
+  index: -1
+XX/tx_23
+  rotate: true
+  xy: 177, 407
+  size: 214, 165
+  orig: 214, 165
+  offset: 0, 0
+  index: -1
+XX/tx_24
+  rotate: true
+  xy: 344, 460
+  size: 214, 165
+  orig: 214, 165
+  offset: 0, 0
+  index: -1
+XX/tx_25
+  rotate: false
+  xy: 511, 509
+  size: 214, 165
+  orig: 214, 165
+  offset: 0, 0
+  index: -1
+XX/tx_26
+  rotate: false
+  xy: 511, 342
+  size: 214, 165
+  orig: 214, 165
+  offset: 0, 0
+  index: -1
+minigame-bolder
+  rotate: true
+  xy: 2, 2
+  size: 188, 181
+  orig: 188, 181
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 1917, 801
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 1919, 845
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1

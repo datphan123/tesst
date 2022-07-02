@@ -1,0 +1,62 @@
+
+BauCuaIcon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CaoThapIcon/minigame-bolder
+  rotate: false
+  xy: 388, 52
+  size: 188, 181
+  orig: 188, 181
+  offset: 0, 0
+  index: -1
+baucua/background
+  rotate: false
+  xy: 2, 50
+  size: 191, 183
+  orig: 191, 183
+  offset: 0, 0
+  index: -1
+baucua/dice1
+  rotate: false
+  xy: 578, 113
+  size: 114, 120
+  orig: 114, 120
+  offset: 0, 0
+  index: -1
+baucua/dice2
+  rotate: false
+  xy: 694, 144
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+baucua/dice3
+  rotate: false
+  xy: 783, 148
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+baucua/eff
+  rotate: false
+  xy: 195, 50
+  size: 191, 183
+  orig: 191, 183
+  offset: 0, 0
+  index: -1
+baucua/text-bau
+  rotate: false
+  xy: 2, 2
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+baucua/text-cua
+  rotate: false
+  xy: 578, 78
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ec592558-cfbe-4260-b2d7-68db10f6508e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 74,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "CAO THAP TEN2": {
+      "ver": "1.0.6",
+      "uuid": "2de167f1-8293-42f9-832a-d0a4cf377491",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ec592558-cfbe-4260-b2d7-68db10f6508e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 99,
+      "rawWidth": 74,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

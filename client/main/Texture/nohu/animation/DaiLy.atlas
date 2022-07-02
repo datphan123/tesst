@@ -1,0 +1,69 @@
+
+DaiLy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10-daily/backlight
+  rotate: false
+  xy: 1, 1
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+10-daily/title
+  rotate: false
+  xy: 1, 336
+  size: 329, 87
+  orig: 329, 87
+  offset: 0, 0
+  index: -1
+10-daily/blur-lightround
+  rotate: false
+  xy: 336, 1
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+10-daily/daily-main-obj2
+  rotate: false
+  xy: 332, 336
+  size: 181, 121
+  orig: 181, 121
+  offset: 0, 0
+  index: -1
+10-daily/daily-main-obj
+  rotate: false
+  xy: 790, 336
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1
+10-daily/star
+  rotate: false
+  xy: 912, 461
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Untitled-1
+  rotate: false
+  xy: 790, 461
+  size: 120, 43
+  orig: 120, 43
+  offset: 0, 0
+  index: -1
+10-daily/dotlight
+  rotate: false
+  xy: 662, 336
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+10-daily/Light-Beam
+  rotate: false
+  xy: 515, 336
+  size: 145, 148
+  orig: 145, 148
+  offset: 0, 0
+  index: -1

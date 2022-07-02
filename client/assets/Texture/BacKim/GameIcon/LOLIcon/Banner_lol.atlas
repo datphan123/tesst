@@ -1,0 +1,356 @@
+
+Banner_lol.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-n
+  rotate: false
+  xy: 1, 404
+  size: 223, 390
+  orig: 223, 390
+  offset: 0, 0
+  index: -1
+bannerlolnew2
+  rotate: false
+  xy: 1, 796
+  size: 270, 190
+  orig: 270, 190
+  offset: 0, 0
+  index: -1
+bannerlolnew4
+  rotate: false
+  xy: 226, 404
+  size: 167, 276
+  orig: 167, 276
+  offset: 0, 0
+  index: -1
+bannerlolnew10
+  rotate: false
+  xy: 447, 136
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+bannerlolnew3
+  rotate: false
+  xy: 238, 188
+  size: 140, 132
+  orig: 140, 132
+  offset: 0, 0
+  index: -1
+bannerlolnew5
+  rotate: false
+  xy: 915, 1
+  size: 103, 185
+  orig: 103, 185
+  offset: 0, 0
+  index: -1
+bannerlolnew6
+  rotate: false
+  xy: 273, 682
+  size: 189, 225
+  orig: 189, 225
+  offset: 0, 0
+  index: -1
+bannerlolnew7
+  rotate: false
+  xy: 380, 254
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+bannerlolnew8
+  rotate: false
+  xy: 915, 188
+  size: 61, 93
+  orig: 61, 93
+  offset: 0, 0
+  index: -1
+face0
+  rotate: false
+  xy: 408, 136
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 1, 988
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 447, 158
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+bannerlolnew11
+  rotate: false
+  xy: 47, 988
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 573, 75
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+face4
+  rotate: false
+  xy: 544, 162
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+bannerlolnew16
+  rotate: false
+  xy: 273, 909
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+bannerlolnew13
+  rotate: false
+  xy: 634, 75
+  size: 87, 119
+  orig: 87, 119
+  offset: 0, 0
+  index: -1
+bannerlolnew12
+  rotate: false
+  xy: 408, 87
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+bannerlolnew14
+  rotate: false
+  xy: 978, 188
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+bannerlolnew15
+  rotate: false
+  xy: 872, 70
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+tiengviet0
+  rotate: false
+  xy: 395, 909
+  size: 284, 103
+  orig: 284, 103
+  offset: 0, 0
+  index: -1
+tiengviet1
+  rotate: false
+  xy: 950, 443
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+tiengviet10
+  rotate: false
+  xy: 915, 411
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+tiengviet11
+  rotate: false
+  xy: 915, 283
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+tiengviet12
+  rotate: false
+  xy: 990, 400
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+tiengviet13
+  rotate: false
+  xy: 978, 229
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+tiengviet14
+  rotate: false
+  xy: 953, 400
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+tiengviet15
+  rotate: false
+  xy: 978, 272
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+tiengviet16
+  rotate: false
+  xy: 226, 732
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+tiengviet17
+  rotate: false
+  xy: 226, 682
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+tiengviet18
+  rotate: false
+  xy: 367, 909
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+tiengviet2
+  rotate: false
+  xy: 367, 952
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+tiengviet3
+  rotate: false
+  xy: 993, 315
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+tiengviet4
+  rotate: false
+  xy: 872, 123
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+tiengviet5
+  rotate: false
+  xy: 915, 326
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+tiengviet6
+  rotate: false
+  xy: 915, 454
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+tiengviet7
+  rotate: false
+  xy: 954, 358
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+tiengviet8
+  rotate: false
+  xy: 954, 315
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+tiengviet9
+  rotate: false
+  xy: 915, 368
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+bannerlolnew34
+  rotate: false
+  xy: 681, 909
+  size: 232, 93
+  orig: 232, 93
+  offset: 0, 0
+  index: -1
+ln5
+  rotate: false
+  xy: 407, 1
+  size: 164, 84
+  orig: 164, 84
+  offset: 0, 0
+  index: -1
+ln6
+  rotate: false
+  xy: 464, 87
+  size: 168, 73
+  orig: 168, 73
+  offset: 0, 0
+  index: -1
+ln0
+  rotate: false
+  xy: 739, 1
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+ln1
+  rotate: false
+  xy: 573, 1
+  size: 164, 72
+  orig: 164, 72
+  offset: 0, 0
+  index: -1
+ln2
+  rotate: false
+  xy: 380, 174
+  size: 162, 78
+  orig: 162, 78
+  offset: 0, 0
+  index: -1
+ln4
+  rotate: false
+  xy: 238, 1
+  size: 167, 87
+  orig: 167, 87
+  offset: 0, 0
+  index: -1
+ln3
+  rotate: false
+  xy: 238, 322
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+ln7
+  rotate: false
+  xy: 238, 90
+  size: 168, 82
+  orig: 168, 82
+  offset: 0, 0
+  index: -1
+ln8
+  rotate: false
+  xy: 739, 70
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1

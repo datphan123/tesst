@@ -1,0 +1,167 @@
+
+DongMauAnhHung.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-ê
+  rotate: false
+  xy: 238, 1
+  size: 222, 390
+  orig: 222, 390
+  offset: 0, 0
+  index: -1
+DONG MAU MODEL
+  rotate: false
+  xy: 462, 1
+  size: 195, 236
+  orig: 195, 236
+  offset: 0, 0
+  index: -1
+DONG MAU DAU MODEL
+  rotate: false
+  xy: 954, 225
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+DONG MAU MAT2
+  rotate: false
+  xy: 954, 307
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+DONG MAU MAT1
+  rotate: false
+  xy: 954, 325
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+DONG MAU TAY
+  rotate: false
+  xy: 659, 1
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+DONG MAU LUA1
+  rotate: false
+  xy: 462, 239
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+DONG MAU LUA2
+  rotate: false
+  xy: 338, 393
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+DONG MAU LUA3
+  rotate: false
+  xy: 762, 239
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+DONG MAU LUA4
+  rotate: false
+  xy: 567, 239
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+DONG MAU LUA5
+  rotate: false
+  xy: 667, 239
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+DONG MAU LUA6
+  rotate: false
+  xy: 765, 354
+  size: 91, 121
+  orig: 91, 121
+  offset: 0, 0
+  index: -1
+DONG MAU LUA7
+  rotate: false
+  xy: 565, 362
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+DONG MAU LUA8
+  rotate: false
+  xy: 462, 362
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+DONG MAU LUA9
+  rotate: false
+  xy: 666, 362
+  size: 97, 120
+  orig: 97, 120
+  offset: 0, 0
+  index: -1
+DONG MAU LUA10
+  rotate: false
+  xy: 858, 354
+  size: 97, 113
+  orig: 97, 113
+  offset: 0, 0
+  index: -1
+DONG MAU LUA11
+  rotate: false
+  xy: 862, 112
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+DONG MAU LUA12
+  rotate: false
+  xy: 238, 393
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+DONG MAU LUA13
+  rotate: false
+  xy: 862, 1
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+DONG MAU LUA14
+  rotate: false
+  xy: 862, 225
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+DONG MAU
+  rotate: false
+  xy: 858, 469
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+DONG MAU2
+  rotate: false
+  xy: 659, 128
+  size: 140, 45
+  orig: 140, 45
+  offset: 0, 0
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1

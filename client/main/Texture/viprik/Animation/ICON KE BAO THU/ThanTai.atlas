@@ -1,0 +1,48 @@
+
+ThanTai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1, 1
+  size: 283, 416
+  orig: 283, 416
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 286, 142
+  size: 203, 125
+  orig: 203, 125
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 286, 269
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 524, 1
+  size: 153, 186
+  orig: 153, 186
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 491, 189
+  size: 71, 170
+  orig: 71, 170
+  offset: 0, 0
+  index: -1
+Group 31189
+  rotate: false
+  xy: 286, 1
+  size: 236, 139
+  orig: 238, 142
+  offset: 1, 1
+  index: -1

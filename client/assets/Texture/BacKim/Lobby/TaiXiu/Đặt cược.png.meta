@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "6ad2fbaa-bd76-49a7-856c-d398580c2efc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Đặt cược": {
+      "ver": "1.0.4",
+      "uuid": "1eb7146d-9a30-4d05-b9ff-8c948d841c76",
+      "rawTextureUuid": "6ad2fbaa-bd76-49a7-856c-d398580c2efc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 346,
+      "height": 72,
+      "rawWidth": 346,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,83 @@
+
+iconRongHo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ronghobg
+  rotate: false
+  xy: 205, 182
+  size: 191, 182
+  orig: 191, 182
+  offset: 0, 0
+  index: -1
+Cloud B
+  rotate: false
+  xy: 404, 1
+  size: 73, 103
+  orig: 75, 105
+  offset: 1, 1
+  index: -1
+Back Cloud
+  rotate: false
+  xy: 398, 182
+  size: 98, 93
+  orig: 100, 95
+  offset: 1, 1
+  index: -1
+Dragon
+  rotate: false
+  xy: 205, 1
+  size: 197, 179
+  orig: 197, 179
+  offset: 0, 0
+  index: -1
+Cloud
+  rotate: false
+  xy: 143, 194
+  size: 50, 96
+  orig: 52, 98
+  offset: 1, 1
+  index: -1
+Tiger
+  rotate: false
+  xy: 1, 194
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+DLQ
+  rotate: false
+  xy: 465, 335
+  size: 38, 42
+  orig: 40, 44
+  offset: 1, 1
+  index: -1
+rong
+  rotate: false
+  xy: 398, 277
+  size: 103, 56
+  orig: 103, 56
+  offset: 0, 0
+  index: -1
+ho
+  rotate: false
+  xy: 398, 335
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+Impact
+  rotate: false
+  xy: 404, 106
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+khungmini
+  rotate: false
+  xy: 1, 1
+  size: 202, 191
+  orig: 202, 191
+  offset: 0, 0
+  index: -1

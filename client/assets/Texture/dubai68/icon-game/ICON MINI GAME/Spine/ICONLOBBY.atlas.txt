@@ -1,0 +1,48 @@
+
+ICONLOBBY.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Game
+  rotate: false
+  xy: 106, 5
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+Layer 65
+  rotate: false
+  xy: 2, 2
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+Layer 66
+  rotate: true
+  xy: 213, 23
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+Layer 66 copy
+  rotate: true
+  xy: 106, 31
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+MINI GAME FRAME
+  rotate: false
+  xy: 307, 75
+  size: 95, 30
+  orig: 95, 30
+  offset: 0, 0
+  index: -1
+Mini
+  rotate: false
+  xy: 307, 50
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1

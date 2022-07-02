@@ -1,0 +1,97 @@
+
+BanCaIcon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanCaIcon/blacklayer
+  rotate: false
+  xy: 686, 326
+  size: 226, 184
+  orig: 226, 184
+  offset: 0, 0
+  index: -1
+BanCaIcon/eff/bot
+  rotate: false
+  xy: 470, 202
+  size: 214, 308
+  orig: 214, 308
+  offset: 0, 0
+  index: -1
+BanCaIcon/eff/light
+  rotate: false
+  xy: 602, 119
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+BanCaIcon/slotgame-bolder
+  rotate: false
+  xy: 2, 109
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1
+banca3/background
+  rotate: false
+  xy: 239, 116
+  size: 229, 394
+  orig: 229, 394
+  offset: 0, 0
+  index: -1
+banca3/ca1
+  rotate: true
+  xy: 686, 180
+  size: 144, 215
+  orig: 144, 215
+  offset: 0, 0
+  index: -1
+banca3/ca1-dan
+  rotate: false
+  xy: 685, 134
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+banca3/ca1-gun
+  rotate: false
+  xy: 470, 91
+  size: 130, 109
+  orig: 130, 109
+  offset: 0, 0
+  index: -1
+banca3/ca1-tay1
+  rotate: false
+  xy: 914, 344
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+banca3/ca1-tay2
+  rotate: false
+  xy: 200, 88
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+banca3/ca2
+  rotate: false
+  xy: 602, 2
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+banca3/ca3
+  rotate: false
+  xy: 914, 416
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+banca3/text-banca
+  rotate: false
+  xy: 2, 15
+  size: 196, 92
+  orig: 196, 92
+  offset: 0, 0
+  index: -1

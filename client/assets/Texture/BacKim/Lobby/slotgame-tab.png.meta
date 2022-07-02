@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "d22fa0ad-8759-4071-994d-1612236094d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "slotgame-tab": {
+      "ver": "1.0.4",
+      "uuid": "af39bdbe-4381-406e-bca3-f607a7176b5a",
+      "rawTextureUuid": "d22fa0ad-8759-4071-994d-1612236094d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 17,
+      "width": 148,
+      "height": 26,
+      "rawWidth": 150,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

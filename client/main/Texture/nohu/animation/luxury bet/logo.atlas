@@ -1,0 +1,110 @@
+ logo.png
+  size: 2048,512
+  format: RGBA8888
+  filter: Linear,Linear
+  repeat: none
+Layer 2
+  rotate: true
+  xy: 1923, 331
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+bong_01
+  rotate: false
+  xy: 208, 90
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_02
+  rotate: false
+  xy: 481, 304
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_03
+  rotate: false
+  xy: 687, 304
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_04
+  rotate: false
+  xy: 893, 304
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_05
+  rotate: false
+  xy: 1099, 304
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_06
+  rotate: false
+  xy: 1305, 304
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_07
+  rotate: false
+  xy: 1511, 304
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_08
+  rotate: false
+  xy: 1717, 304
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_10
+  rotate: false
+  xy: 2, 90
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+cha
+  rotate: true
+  xy: 2, 2
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 296
+  size: 336, 141
+  orig: 336, 141
+  offset: 0, 0
+  index: -1
+ngua1
+  rotate: false
+  xy: 340, 343
+  size: 128, 94
+  orig: 128, 94
+  offset: 0, 0
+  index: -1
+ngua2
+  rotate: true
+  xy: 1923, 366
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+texxt
+  rotate: false
+  xy: 2, 439
+  size: 477, 69
+  orig: 477, 69
+  offset: 0, 0
+  index: -1

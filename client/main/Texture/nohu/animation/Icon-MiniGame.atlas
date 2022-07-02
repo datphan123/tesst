@@ -1,0 +1,34 @@
+
+Icon-MiniGame.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game
+  rotate: false
+  xy: 277, 64
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+mini
+  rotate: false
+  xy: 277, 90
+  size: 76, 36
+  orig: 76, 36
+  offset: 0, 0
+  index: -1
+xoay1
+  rotate: false
+  xy: 139, 25
+  size: 136, 101
+  orig: 136, 101
+  offset: 0, 0
+  index: -1
+xoay2
+  rotate: true
+  xy: 2, 2
+  size: 124, 135
+  orig: 124, 135
+  offset: 0, 0
+  index: -1
